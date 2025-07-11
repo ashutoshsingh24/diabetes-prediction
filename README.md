@@ -1,6 +1,6 @@
 # 🤝 Voting Ensemble Classifier with XGBoost & AdaBoost
 
-A powerful ensemble learning system combining **XGBoost** and **AdaBoost**, trained on the **Diabetes dataset** with optimized hyperparameters using **GridSearchCV**. This project demonstrates a clean, scalable approach to binary classification using boosting and model ensembling.
+A powerful ensemble learning system combining **XGBoost** and **AdaBoost**, trained on the **Diabetes dataset** with optimized hyperparameters using **GridSearchCV**. This project demonstrates a clean, scalable approach to binary classification using boosting and model ensembling
 
 ---
 
